@@ -1,0 +1,16 @@
+{
+  "model_architecture": "MobileNetV3-Small Transfer Learning",
+  "num_epochs": 15,
+  "best_val_accuracy": 87.74,
+  "training_time_seconds": 420.31,
+  "classes": [
+    "clean_roads",
+    "slightly_dirty",
+    "very_dirty"
+  ],
+  "class_to_idx": {
+    "clean_roads": 0,
+    "slightly_dirty": 1,
+    "very_dirty": 2
+  }
+}
