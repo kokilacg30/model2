@@ -20,3 +20,6 @@ road cleanliness final (1)/
 dataset/classification/
 dataset/raw/
 dataset/auto_labeled/images/
+
+models/
+*.pth
