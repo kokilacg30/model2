@@ -14,7 +14,8 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# Duplicate image dataset caches to stay within GitHub repository size limits
+# Heavy raw image directories (exceeds GitHub's 500MB HTTP push limit)
+road cleanliness/
 road cleanliness final (1)/
 dataset/classification/
 dataset/raw/
